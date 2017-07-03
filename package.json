@@ -1,0 +1,15 @@
+{
+  "name": "quepasaperri",
+  "version": "0.0.1",
+  "description": "A RSS player for 'La cámara de los balones'",
+  "repository": "None yet.",
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "lodash": "^4.13.1",
+    "request": "^2.72.0",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {},
+  "author": "@josemazo",
+  "license": "MIT"
+}
