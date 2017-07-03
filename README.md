@@ -1,2 +1,2 @@
 # que-pasa-perri
-La cámara de los balones as a web: [lacamara.josemazo.com](lacamara.josemazo.com).
+La cámara de los balones as a web: [http://lacamara.josemazo.com](http://lacamara.josemazo.com).
